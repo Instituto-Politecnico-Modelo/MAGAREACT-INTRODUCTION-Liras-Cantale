@@ -1,0 +1,25 @@
+{
+  "name": "magareact-introduction-liras-cantale",
+  "version": "1.0.0",
+  "description": "WELKCOME TO LIRAS WORLD",
+  "homepage": "https://github.com/Instituto-Politecnico-Modelo/MAGAREACT-INTRODUCTION-Liras-Cantale#readme",
+  "bugs": {
+    "url": "https://github.com/Instituto-Politecnico-Modelo/MAGAREACT-INTRODUCTION-Liras-Cantale/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Instituto-Politecnico-Modelo/MAGAREACT-INTRODUCTION-Liras-Cantale.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+
+
+
+  
+  "scripts": {
+    "start": "node node_modules/src/index.js"
+  },
+  "devDependencies": {}
+}
